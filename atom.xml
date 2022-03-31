@@ -6,7 +6,7 @@
   <link href="http://xxgn.github.io/project/atom.xml" rel="self"/>
   
   <link href="http://xxgn.github.io/project/"/>
-  <updated>2021-11-20T07:44:59.087Z</updated>
+  <updated>2022-03-31T07:08:15.672Z</updated>
   <id>http://xxgn.github.io/project/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python</title>
+    <link href="http://xxgn.github.io/project/2022/03/31/python/"/>
+    <id>http://xxgn.github.io/project/2022/03/31/python/</id>
+    <published>2022-03-31T07:05:27.000Z</published>
+    <updated>2022-03-31T07:08:15.672Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1、基础语法"><a href="#1、基础语法" class="headerlink" title="1、基础语法"></a>1、基础语法</h2><p>默认情况下，Python 3 源码文件以 <strong>UTF-8</strong> 编码，所有字符串都是 unicode 字符串。</p><p>Python 通常是一行写完一条语句，但如果语句很长，我们可以使用反斜杠 \来实现多行语句，例如：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">total = item_one + \</span><br><span class="line">        item_two + \</span><br><span class="line">        item_three</span><br></pre></td></tr></table></figure><p>在 [], {}, 或 () 中的多行语句，不需要使用反斜杠 \，例如：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">total = [&#x27;item_one&#x27;, &#x27;item_two&#x27;, &#x27;item_three&#x27;,</span><br><span class="line">        &#x27;item_four&#x27;, &#x27;item_five&#x27;]</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1、基础语法&quot;&gt;&lt;a href=&quot;#1、基础语法&quot; class=&quot;headerlink&quot; title=&quot;1、基础语法&quot;&gt;&lt;/a&gt;1、基础语法&lt;/h2&gt;&lt;p&gt;默认情况下，Python 3 源码文件以 &lt;strong&gt;UTF-8&lt;/strong&gt; 编码，所有字符串都是</summary>
+      
+    
+    
+    
+    
+    <category term="tags" scheme="http://xxgn.github.io/project/tags/tags/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

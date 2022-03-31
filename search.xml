@@ -18,4 +18,17 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>python</title>
+    <url>/project/2022/03/31/python/</url>
+    <content><![CDATA[<h2 id="1、基础语法"><a href="#1、基础语法" class="headerlink" title="1、基础语法"></a>1、基础语法</h2><p>默认情况下，Python 3 源码文件以 <strong>UTF-8</strong> 编码，所有字符串都是 unicode 字符串。</p>
+<p>Python 通常是一行写完一条语句，但如果语句很长，我们可以使用反斜杠 \来实现多行语句，例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">total = item_one + \</span><br><span class="line">        item_two + \</span><br><span class="line">        item_three</span><br></pre></td></tr></table></figure>
+
+<p>在 [], {}, 或 () 中的多行语句，不需要使用反斜杠 \，例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">total = [&#x27;item_one&#x27;, &#x27;item_two&#x27;, &#x27;item_three&#x27;,</span><br><span class="line">        &#x27;item_four&#x27;, &#x27;item_five&#x27;]</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>tags</tag>
+      </tags>
+  </entry>
 </search>
