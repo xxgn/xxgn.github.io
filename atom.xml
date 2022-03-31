@@ -3,11 +3,11 @@
   <title>LiuYu&#39;s Blog</title>
   
   
-  <link href="http://xxgn.github.io/project/atom.xml" rel="self"/>
+  <link href="http://xxgn.github.io/atom.xml" rel="self"/>
   
-  <link href="http://xxgn.github.io/project/"/>
+  <link href="http://xxgn.github.io/"/>
   <updated>2022-03-31T07:08:15.672Z</updated>
-  <id>http://xxgn.github.io/project/</id>
+  <id>http://xxgn.github.io/</id>
   
   <author>
     <name>Liuyu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python</title>
-    <link href="http://xxgn.github.io/project/2022/03/31/python/"/>
-    <id>http://xxgn.github.io/project/2022/03/31/python/</id>
+    <link href="http://xxgn.github.io/2022/03/31/python/"/>
+    <id>http://xxgn.github.io/2022/03/31/python/</id>
     <published>2022-03-31T07:05:27.000Z</published>
     <updated>2022-03-31T07:08:15.672Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="tags" scheme="http://xxgn.github.io/project/tags/tags/"/>
+    <category term="tags" scheme="http://xxgn.github.io/tags/tags/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://xxgn.github.io/project/2021/11/20/hello-world/"/>
-    <id>http://xxgn.github.io/project/2021/11/20/hello-world/</id>
+    <link href="http://xxgn.github.io/2021/11/20/hello-world/"/>
+    <id>http://xxgn.github.io/2021/11/20/hello-world/</id>
     <published>2021-11-20T07:44:59.086Z</published>
     <updated>2021-11-20T07:44:59.087Z</updated>
     
